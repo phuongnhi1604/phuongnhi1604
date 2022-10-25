@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Spring Boot, Angular, .NET, NodeJS,v.v**
 
-- 👯 I’m looking to collaborate on [Dermatology Room System](https://github.com/phuongnhi1604/DermatologyRoomSystem)
+- 👯 I’m looking to collaborate on [Medical Equipment Store Management](https://github.com/A1121I01-Org)
 
 - 💬 Ask me about **Spring, Angular, .NET**
 
